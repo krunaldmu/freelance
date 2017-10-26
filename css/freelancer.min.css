@@ -23,11 +23,17 @@ a:hover#fb{
 a:hover#tw{
     color: #00aced;
 }
+a:hover#ig{
+    color: #e95950;
+}
 a:hover#li{
     color: #007bb6;
 }
 a:hover#gh{
     color: #767676;
+}
+a:hover#em{
+    color: #dd4b39;
 }
 h1,
 h2,
